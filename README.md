@@ -1,1 +1,1 @@
-# PrabhaniR.github.io
+I specialize in transforming complex signals into actionable insights—whether those signals come from young stars in the Orion molecular clouds or satellite imagery of the Toledo metro area. With a background in computational physics and a focus on GIS and Data Analytics, I build pipelines that bridge the gap between raw data and environmental storytelling.
