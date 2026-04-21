@@ -3,6 +3,7 @@ Seasonal NDVI Analysis of the Toledo Region
 
 ### Winter Baseline
 The year begins with low biological activity.
+
 ![January NDVI Plot](./Images/NDVI_January-27.jpg)
 
 ### The Spring Green-up
