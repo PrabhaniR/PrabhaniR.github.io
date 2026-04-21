@@ -24,7 +24,7 @@ The rural fringe reaches maximum saturation by late July.
 
 By June 28, the landscape has "saturated." The greens are deep and dark (NDVI $> 0.75$), especially in the agricultural fields surrounding the city.The July Story: If you compare July 14 to July 22, you can see the peak of biological productivity. This is the height of the corn and soybean season.Urban Heat Island: Notice how the Toledo city center (that "notch" on the western edge of the lake) stays a lighter green/yellow compared to the deep green of the rural fields. This clearly shows the difference between managed urban lawns/parks and the high-density biomass of the surrounding farmland.
 
-**Algal bl0om activity alert!!**
+**Sedements and algal bloom activity on Maumee river and Lake Erie!!**
 ![July-14 NDVI Plot](./Images/NDVI_July-14.jpg)
 
 July-14 --> July-22: The red patches in the water seem to shift slightly in shape. This could be capturing the movement of sediment plumes from the Maumee River or potentially the early stages of algal activity in the western basin of Lake Erie, which often shows up in remote sensing data during the hot summer months.
