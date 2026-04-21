@@ -11,7 +11,7 @@ By May, we see a significant shift in the spectral signature.
 ![May NDVI Plot](./Images/NDVI_May-11.jpg)
 
 ### Peak Summer Vigor
-The rural fringe reaches maximum saturation by late July.
+The rural fringe reaches maximum saturation by late July. Note: **Alga
 ![July NDVI Plot](./Images/NDVI_July-22.jpg)
 
 This project quantifies the "biological pulse" of Northwest Ohio by analyzing seasonal vegetation dynamics across urban and rural zones.
