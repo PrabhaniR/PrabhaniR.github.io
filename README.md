@@ -7,6 +7,9 @@ I specialize in transforming complex signals into actionable insights—whether 
 Ph.D. in Physics (Astronomy) | University of Toledo
 Conducted a 1.6-micron survey of star systems using Hubble Space Telescope data.
 
+LSSTC Data Science Fellowship Program 2018-2021
+A supplement to graduate education in astronomy, intended to teach astronomy students essential skills for dealing with big data.
+
 Google Data Analytics Professional Certificate
 Mastered end-to-end data processing, cleaning, and visualization workflows.
 
