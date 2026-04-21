@@ -1,4 +1,5 @@
-**Featured Project: The Green Pulse**
+# **Featured Project: The Green Pulse**
+
 Seasonal NDVI Analysis of the Toledo Region
 
 ### Winter Baseline
