@@ -1,6 +1,6 @@
 # **Featured Project: The Green Pulse**
 
-Seasonal NDVI Analysis of the Toledo Region using Landsat-8 data.
+Seasonal Normalized Difference Vegetation Index (NDVI) Analysis of the Toledo Region using Landsat-8 data.
 
 ### Winter Baseline
 The year begins with low biological activity.
